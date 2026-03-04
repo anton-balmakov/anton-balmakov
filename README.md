@@ -1,16 +1,52 @@
-## Hi there 👋
+# Антон Балмаков
 
-<!--
-**anton-balmakov/anton-balmakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python developer | Automation | System Analysis
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Обо мне
+
+Я системный аналитик с большим опытом автоматизации бизнес-процессов и разработки IT-решений.  
+В своей работе совмещаю аналитическое мышление и разработку инструментов на Python для автоматизации задач, интеграций и обработки данных.
+
+Более 17 лет работал в электроэнергетике, где занимался проектированием и внедрением автоматизированных систем, интеграциями между платформами и оптимизацией процессов.
+
+Сейчас развиваюсь в направлении Python-разработки, автоматизации и AI-assisted development.
+
+---
+
+## Технологии и инструменты
+
+Python  
+REST API  
+JSON / XML  
+SQL (базовый уровень)  
+Git / GitHub  
+
+BPMN  
+UML  
+System Analysis  
+
+MS Excel / VBA / Power Query  
+
+---
+
+## Проекты
+
+Раздел находится в процессе наполнения.  
+Здесь будут размещены проекты на Python, связанные с автоматизацией, обработкой данных и интеграциями.
+
+---
+
+## Образование
+
+Системный аналитик — Яндекс Практикум  
+
+Программист на Python с помощью ChatGPT — Zerocoder University  
+
+---
+
+## Контакты
+
+Email: anton_bal_23@mail.ru  
+Telegram: https://t.me/tonas_347
