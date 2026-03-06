@@ -35,7 +35,7 @@
 
 ## GitHub статистика
 
-![Anton GitHub stats](https://github-readme-stats.vercel.app/api?username=anton-balmakov&show_icons=true&theme=default)
+![Anton GitHub stats](https://github-readme-stats.vercel.app/api?username=anton-balmakov&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anton-balmakov&layout=compact)
 ---
