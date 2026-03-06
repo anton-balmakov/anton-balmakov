@@ -35,10 +35,9 @@
 
 ## GitHub статистика
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anton-balmakov&show_icons=true&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anton-balmakov&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anton-balmakov&layout=compact&theme=default&hide_border=true)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anton-balmakov&layout=compact)
 ---
 
 ## Проекты
